@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 Tittle: Agents
 Description: Overview
@@ -15,3 +16,15 @@ The user clicks on the statement menu then click the agents submodule. User can 
 The green button **email statement** sends the emails to all agents.
 
 ![](/images/state.png)
+=======
+---
+Tittle: Agents
+Description: Overview
+Order:5
+---
+
+### Agents
+
+
+The user clicks on the statement menu then click the agents submodule. User can search using the agents info then click the blue search button and the agent details will populate. A user can search all agents or one agent. The user is able to view details as well as share the statements via email. A user can also choose whether they want a single agent or all agents. 
+>>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10

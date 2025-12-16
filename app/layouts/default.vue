@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <script setup lang="ts">
 const { data: navigation } = await useAsyncData('nav', () => {
   return queryCollectionNavigation('content')
@@ -160,4 +161,30 @@ const onSearchBlur = () => {
       </UDashboardBody>
     </UDashboardPanel>
   </UDashboardGroup>
+=======
+
+<script setup lang="ts">
+import { container } from '#build/ui';
+
+ const { data: navigation } = await useAsyncData('nav', ()=> {
+    return queryCollectionNavigation('content')
+})
+</script>
+
+
+<template>
+  <UPage>
+    <template #left>
+      <UPageAside>
+        <UContentNavigation :navigation="navigation"/>
+      </UPageAside>
+    </template>
+
+    <UPageBody>
+      <slot/>
+    </UPageBody>    
+    
+  </UPage>
+  
+>>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
 </template>

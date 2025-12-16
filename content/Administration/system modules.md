@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 Tittle: System modules
 Description: Overview
@@ -20,3 +21,16 @@ The **Delete button** is used to remove an item completely. When clicked, it usu
 
 *** Step one***
 Add module
+=======
+---
+Tittle: System modules
+Description: Overview
+order: 1 
+
+---
+
+ ### System modules
+
+ Admin can manage system menus.
+![](/images/.png)
+>>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
