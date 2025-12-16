@@ -12,20 +12,14 @@
   "dependencies": {
     "@nuxt/content": "^3.8.2",
     "@nuxt/ui": "^4.2.1",
-<<<<<<< HEAD
     "@nuxtjs/color-mode": "^4.0.0",
-=======
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
     "@nuxtjs/mdc": "^0.19.1",
     "better-sqlite3": "^12.5.0",
     "nuxt": "^4.2.1",
     "vue": "^3.5.25",
     "vue-router": "^4.6.3"
-<<<<<<< HEAD
   },
   "devDependencies": {
     "@iconify-json/lucide": "^1.2.79"
-=======
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
   }
 }
