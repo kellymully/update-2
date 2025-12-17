@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 Tittle: System modules
 Description: Overview
@@ -19,18 +18,9 @@ It has a blue background color.
 
 The **Delete button** is used to remove an item completely. When clicked, it usually asks for confirmation to prevent mistakes, and once confirmed, the selected command, lesson, or topic is permanently deleted from the system.
 
-*** Step one***
-Add module
-=======
----
-Tittle: System modules
-Description: Overview
-order: 1 
+On the right side we have **Add module** button which when you press it brings you a form wher you add a module . This means you add a menu bar.
 
----
 
- ### System modules
+![](/images/bar.png)
 
- Admin can manage system menus.
-![](/images/.png)
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
+After you finish to fill the details, you press the green button **save**.

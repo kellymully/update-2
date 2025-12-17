@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 Tittle: Roles
 Description: Overvuew
@@ -32,13 +31,3 @@ On the right there are two buttons:
 
 
 
-=======
----
-Tittle: Roles
-Description: Overvuew
-order: 1
----
-### Roles
-
-Admin can update system roles and permissions.![](/images/single_form.png)
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10

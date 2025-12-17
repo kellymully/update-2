@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 Tittle: fund expense
 Description: overview
@@ -41,16 +40,3 @@ It has a red background color
 
   - The **Cancel button** means you do not want to continue with the changes you were making. In 
     clicking Cancel closes the form or takes you back to the previous page without saving anything, so all the changes you typed are discarded.
-=======
----
-Tittle: fund expense
-Description: overview
-Order: 1
----
-
-### Fund expense
-
- A user can set up **fund expenses** per fund on this module. Vat and excise controls on the expense can be set on the creation and updated on the update form respectively. Click on Add Expense to capture an expense. 
-
- Fill the expense form and hit on submit to save the expense
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10

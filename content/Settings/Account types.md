@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 Tittle: Agent Type
 Description: Overview
@@ -12,16 +11,3 @@ The user clicks on the settings menu then click on the agent type submodule. The
 ```
 
 ![](/images/type.png)
-=======
----
-Tittle: Agent Type
-Description: Overview
-order: 3
----
-
-###	Agent Type
-
-```
-The user clicks on the settings menu then click on the agent type submodule. The user clicks on the blue edit button to edit the info on the agent type and click the red delete button when deleting any info. 
-```
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10

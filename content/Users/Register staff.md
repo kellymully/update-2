@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 --- 
 Tittle: Register staff
 Description: overview
@@ -10,14 +9,10 @@ Order:1
 A user can create, update and delete a company staff. Click register staff from User Menu.
 ```
 ![](/images/Register.png)
-=======
---- 
-Tittle: Register staff
-Description: overview
-Order:1
----
 
-### Register staff
+The **Edit Button** allows you to update a staff member’s information, such as their role, contact details, or status, to keep records accurate.
 
-A user can create, update and delete a company staff. Click register staff from User Menu
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
+The **Delete Button** removes a staff member from the staff listing when they are no longer part of the organization, usually after confirmation.
+
+ The **View Button** displays a staff member’s full details without allowing any changes, making it useful for review and reference.
+

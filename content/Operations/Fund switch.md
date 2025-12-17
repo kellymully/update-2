@@ -15,11 +15,7 @@ Order:3
 
  Go to the Transactions menu, then click on the Fund Switch sub menu.
 <!-- ![](/images/trans.png) -->
-<<<<<<< HEAD
 <img src="/images/swich.png" alt="Agents sidebar" class="img-small"  width= "400px"/>
-=======
-<img src="/images/trans.png" alt="Agents sidebar" class="img-small"  width= "400px"/>
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
 
 
  ### ***Step 2: Select the member***
@@ -31,11 +27,6 @@ Order:3
 * Selecting the member’s details from the dropdown button on the top right side.
 
 ```
-<<<<<<< HEAD
-
-=======
-![](/images/swich.png)
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
 ### ***Step 3: Choose date and accounts***
 
 Select:

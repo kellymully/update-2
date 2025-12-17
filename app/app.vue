@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 <!-- <template>
   <NuxtLayout>
     <NuxtPage />
@@ -88,10 +87,3 @@ const onSearchBlur = () => {
 </script>
 
 
-=======
-<template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
-</template>
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10

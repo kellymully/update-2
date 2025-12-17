@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 Tittle: Communication groups
 Description: Overview
@@ -16,15 +15,3 @@ The blue button **Queue** means add this item to a waiting list so it will be pr
 They are on lining so that they can be handled later.
 
 The **Create Group** button is used to create communication groups, allowing users to communicate with multiple people at once instead of contacting them individually.
-=======
----
-Tittle: Communication groups
-Description: Overview
-order:3
----
-
-### Communication groups
-```
-Where you create groups for communication
-```
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10

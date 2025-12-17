@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 Tittle: SMS
 Description: Overview
@@ -11,16 +10,3 @@ It is primarily used to send a one-time password (OTP) to clients when they log 
 
 ```
 ![](/images/con3.png)
-=======
----
-Tittle: SMS
-Description: Overview
-order:3
----
-
-### SMS 
-```
-When text is sent to the client
-
-```
->>>>>>> d601b47d3c97693d9e4fa107b3a106d5e1ab5f10
